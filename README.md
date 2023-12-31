@@ -1,1 +1,3 @@
-# Sprint-2---Challenger-Salesforce-Prototipo.FIGMA
+# Sprint 2 do Challenger Salesforce
+
+Prototipo do futuro site, do projeto para a Salesforce, feito no FIGMA.
