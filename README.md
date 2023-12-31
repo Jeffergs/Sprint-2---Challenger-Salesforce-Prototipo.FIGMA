@@ -1,0 +1,1 @@
+# Sprint-2---Challenger-Salesforce-Prototipo.FIGMA
